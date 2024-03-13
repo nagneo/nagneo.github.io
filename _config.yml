@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "SAENA 's Dev Log"
+title: "Saena Dev Log"
 email: tosk3927@gmail.com
 author: GitHub User
 
